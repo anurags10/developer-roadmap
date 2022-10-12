@@ -1,6 +1,6 @@
 # Blockchain forking
 
-A fork happens whenever a community makes a change to the blockchain’s protocol, or basic set of rules.
+A fork happens whenever a community makes a change to the blockchain’s protocol, or basic set of rules.For example, In 2016 Ethereum get forked into Ethereum classic(ETC) and Ethereum mainnet(ETH).
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://en.wikipedia.org/wiki/Fork_(blockchain)'>Blockchain Fork</BadgeLink>
